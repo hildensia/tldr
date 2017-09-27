@@ -17,3 +17,7 @@
 - Execute Git command:
 
 `git {{command}}`
+
+- Note that there are tldr pages for specific git commands:
+
+`tldr git {{command}}`
